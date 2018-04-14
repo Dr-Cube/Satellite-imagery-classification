@@ -8,4 +8,6 @@ Satellite-imagery classification using k-means
 
 利用无监督的k-means算法对训练集进行聚类，将聚类结果保存到codebook中。然后对训练集基于codebook对每个像素计算其到聚类中心的欧式距离，取最小距离进行赋值。
 
+训练代码为training.m，测试代码为testing.m。
+
 具体内容见report_ml.pdf。
