@@ -11,3 +11,6 @@ Satellite-imagery classification using k-means
 训练代码为training.m，测试代码为testing.m。
 
 具体内容见report_ml.pdf。
+
+
+https://www.cnblogs.com/skyfsm/p/8330882.html
